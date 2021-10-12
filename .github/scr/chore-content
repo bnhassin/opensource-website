@@ -1,0 +1,4 @@
+git add src/data/projects/newrelic-nr1-github.json
+git add src/data/project-main-content/newrelic-nr1-github.mdx
+git commit -m "chore(nr1-github): adjusting config and content"
+git push
